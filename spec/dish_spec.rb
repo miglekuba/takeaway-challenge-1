@@ -11,5 +11,4 @@ it "should show the price of a dish" do
     expect(dish.price).to eq "7"
 end 
 
-
 end
